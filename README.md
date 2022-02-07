@@ -9,6 +9,3 @@ The benchmarks are separated into four different datasets:
 2. norm
 3. denorm
 4. inductive
-
-For a detailed information about those datasets we refer to our
-thesis TODO: Add reference
